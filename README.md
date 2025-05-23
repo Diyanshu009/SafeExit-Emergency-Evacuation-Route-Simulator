@@ -38,14 +38,6 @@
 
 ---
 
-## 🧪 System Testing & Contributions
-- **Ayush**: Documentation, usability testing
-- **Anil**: Core logic, file reading, debugging
-- **Diyanshu**: HELP/QUIT feature, routes.txt structure
-- **Vedant**: Compatibility testing, formatting
-
----
-
 ## 📈 Future Work
 - Integrate GUI for better accessibility
 - Add route validation and error correction

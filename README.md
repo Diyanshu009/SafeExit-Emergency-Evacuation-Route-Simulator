@@ -1,5 +1,12 @@
 # 🧯 SafeExit – Emergency Evacuation Route Simulator
 
+## 👨‍💻 Team Members
+- **Ayush Adhikari** – 1002095135  
+- **Diyanshu Naag Goli** – 1002223126  
+- **Anil Ghimire** – 1002231127  
+- **Vedant Bhalke** – 1002204217  
+- **Mentor** – Marika Apostolova  
+
 ---
 
 ## 📘 Project Overview

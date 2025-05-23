@@ -17,7 +17,7 @@
 
 ## 🎯 Objectives
 - Simulate emergency evacuation logic using basic C programming.
-- Enable command-line user interaction with file-based routing.
+- Enable command line user interaction with file based routing.
 - Practice searching, string parsing, and handling special commands (`HELP`, `QUIT`).
 
 ---
@@ -41,8 +41,8 @@
 ## 📈 Future Work
 - Integrate GUI for better accessibility
 - Add route validation and error correction
-- Implement graph-based logic for realistic mapping
-- Connect to real-time sensor inputs for smart alerts
+- Implement graph based logic for realistic mapping
+- Connect to real time sensor inputs for smart alerts
 
 ---
 

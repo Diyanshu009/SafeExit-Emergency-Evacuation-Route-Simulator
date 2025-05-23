@@ -1,0 +1,8 @@
+101  Left corridor → North Exit (Door N‑1 by vending machines)
+102  Right corridor → East Exit  (Stairwell E‑2)
+103  Left corridor → North Exit (Door N‑1 by vending machines)
+104  South hallway  → Central Lobby, then West Exit (Glass doors)
+201A South hallway  → Stairwell S‑1, then Ground‑Floor Exit
+202B North hallway  → Stairwell N‑3, exit at Courtyard gate
+204A East wing     → East Exit (Ramp) – accessible
+301  Centre hall   → Roof ladder (blocked) ⇒ use East Exit

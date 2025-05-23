@@ -1,0 +1,27 @@
+Project Name: SafeExit
+
+Project Summary:
+
+SafeExit is a C command-line-executing program and directs the users to their closest building exit in the event of an emergency.
+Using their room number, the users receive personalized directions from saved routes available within a file.
+The system is also available to show all of the routes along with the emergency numbers.
+
+Technologies Used:
+- C Language
+- Reading route information by file handling
+- String handling and conditional checks
+- Path and room maps to be held in arrays
+
+Features:
+- Input case-insensitive for a friendlier method
+- 'HELP' option to display all routes and emergency contacts
+- 'QUIT' option to terminate the program
+- Option to proceed or terminate after finding each
+
+How to Run:
+1. Compile `gcc safe_exit.c -o safe_exit`
+2. Execute with `./safe_exit routes.txt`
+3. Input query prompts to search a room, or HELP/QUIT
+
+Author: Anil Ghimire
+
